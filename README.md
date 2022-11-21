@@ -5,7 +5,7 @@
 
 <br>
 
-<h1 align="center"> The situation about Project </h1>
+<h1 align="center"> Progress about the Project </h1>
 
 <p align="center"> ✔️ First Version Completed ✔️ </p>
 
